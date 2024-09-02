@@ -1,0 +1,41 @@
+.container{
+    max-width: 46rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+#header{
+    height: 100px;
+    background-color: blueviolet;
+    align-content: center;
+    header{
+        max-width: 46rem;
+        margin-right: auto;
+        margin-left: auto;
+
+        align-content: center;
+        h1{
+            margin: 0px;
+        }
+    }
+    
+}
+p{
+    max-width: 80ch;
+}
+body{
+    margin: 0px;
+}
+ul{
+    max-width: 46rem;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    display: flex;
+    gap: 50px;
+    a{
+    text-decoration: none;
+    font-family: sans-serif;
+    }
+}
